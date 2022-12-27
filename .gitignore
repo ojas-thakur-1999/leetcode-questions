@@ -1,5 +1,4 @@
 test.py
 test.cpp
-launch.json
-tasks.json
+.vscode/
 a.out
