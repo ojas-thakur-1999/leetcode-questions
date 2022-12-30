@@ -1,5 +1,5 @@
 # Link to solutions
-https://leetcode.com/problems/house-robber-ii/submissions/867925871/?envType=study-plan&id=algorithm-ii
+https://leetcode.com/problems/house-robber-ii/submissions/867977244/?envType=study-plan&id=algorithm-ii
 
 # Insights
-* tried the recursive approach with memoization array, it is quite slow.
+* similar to house robber problem, just need to give two separate arrays, one with first element removed, another with last element removed. now take max of both these array max_sums.
